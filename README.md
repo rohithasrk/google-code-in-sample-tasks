@@ -17,8 +17,8 @@ We would like the design to convey our commitment to helping creating new networ
 
 With your help and creativity we can attract younger generation to our community!
 
-- Tags: logo, design, graphic design, art
-- Categories: Outreach / Research
+- Tags: coding, design, web
+- Categories: Coding, Outreach / Research
 
 ## Re-design the OpenWISP logo
 
