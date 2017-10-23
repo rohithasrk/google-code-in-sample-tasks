@@ -72,8 +72,18 @@ See also the [issue #25 in the ansible-openwisp2 repository](https://github.com/
 - Tags: python, ansible
 - Categories: Coding
 
-## Create OpenWISP Template Repository
-
-A template repository could be useful for common configurations like eduroam. 
-A lot of different templates will be shared by the community.
+## OpenWISP templates repository on Github
+A templates repository on github could be useful for common configurations like eduroam. 
+A lot of different templates will be shared by/to the community. 
 Then the template could be imported in OpenWISP advanced mode with a simple copy/paste.
+
+- Tags: github, template, community
+- Categories: Coding, Outreach / Research
+
+## Videotutorials
+A videotutorials about the first configuration of device in Access Point mode could be useful to help the users on the first use of OpenWISP.
+The first part of the video show when the device connect to the OpenWISP and how it will be configured with the user interface.
+The second part show the advanced mode and a detail of the precedent configuration in netjson code.
+
+- Tags: videomaker, community, tutorial
+- Categories: Outreach / Research
