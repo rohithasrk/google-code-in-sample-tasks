@@ -147,3 +147,16 @@ When you are done, send a pull request.
 
 - Tags: python, django, git, testing
 - Categories: Quality Assurance, Coding
+
+## Improve OpenWISP 2 installation tutorial
+
+Follow the [OpenWISP 2 Installtion Tutorial](https://github.com/openwisp/ansible-openwisp2#usage-tutorial) (you can install on a virtual box VM, or local linux container) and learn about [ansible](https://www.ansible.com/) basics (what is ansible and what is needed for?) in the process.
+
+Note down at least 2 passages that you find obscure, open an issue and then send a pull request to fix the issues.
+
+Don't forget to star and fork the repository!
+
+Ask your mentors for guidance on how to perform the install process.
+
+- Tags: documentation, ansible
+- Categories: Training/Documentation
