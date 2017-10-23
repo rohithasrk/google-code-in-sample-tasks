@@ -1,24 +1,24 @@
 # OpenWISP - Google Code-In Sample Tasks
 
-## Re-design the OpenWISP website theme
+## Create a new OpenWISP website theme
 
 Many years have passed since OpenWISP was introduced, it's time to refresh our brand identity and we need help.
 
-We need an HTML5+CSS with the following features:
+We need a simple HTML5+CSS theme (lightweight javascript additions are fine)
+with the following features:
 
 - responsive
 - readable
 - lightweight
 - has a design for the homepage
 - has a design for simple content pages
-- has a landing page design that can be used to promote specific features or modules
 
 We would like the design to convey our commitment to helping creating new networking infrastructure in emerging economies, giving warm and friendly feeling to each new visitor as well as to impress them with our features.
 
 With your help and creativity we can attract younger generation to our community!
 
 - Tags: coding, design, web
-- Categories: Coding, Outreach / Research
+- Categories: User Interface, Coding
 
 ## Re-design the OpenWISP logo
 
@@ -72,37 +72,57 @@ See also the [issue #25 in the ansible-openwisp2 repository](https://github.com/
 - Tags: python, ansible
 - Categories: Coding
 
-## OpenWISP templates repository on Github
-A templates repository on github could be useful for common configurations like eduroam. 
-A lot of different templates will be shared by/to the community. 
-Then the template could be imported in OpenWISP advanced mode with a simple copy/paste.
+## Create a templates repository and documentation website using python-sphinx
 
-- Tags: github, template, community
+A templates repository on github would be useful for common configurations like [Eduroam](https://en.wikipedia.org/wiki/Eduroam), Mesh, Roaming and other complex configurations.
+
+A lot of different templates can then be shared by the community and easily imported in OpenWISP using its advanced mode with a simple copy/paste of the [NetJSON](http://netjson.org/) configuration.
+
+Proceed as follows:
+
+- Join the OpenWISP Mailing List and ask us to create the new repository for you
+- We will give you write access so you can start working on it
+- Create a directory which will contain the templates
+- Write instructions in the README containing information like what's the purpose of the repository and how to contribute to the template repository
+
+- Tags: git, github, templates, netjson
 - Categories: Coding, Outreach / Research
 
-## Videotutorials
-A videotutorials about the first configuration of device in Access Point mode could be useful to help the users on the first use of OpenWISP.
-The first part of the video show when the device connect to the OpenWISP and how it will be configured with the user interface.
-The second part show the advanced mode and a detail of the precedent configuration in netjson code.
+## Make a video tutorial of how to prepare configurations in OpenWISP 2 from scratch
 
-- Tags: videomaker, community, tutorial
+A videotutorial about the first configuration of a device in Access Point mode could be useful to help the users on the first use of OpenWISP 2.
+
+Proceed as follows:
+
+- show how to create a template with the necessary configuration, flag the template as default
+- show how the device automatically registers to OpenWISP 2 and how it will automatically configure itself using the default template prepared earlier
+- show how to override the configuration of the template
+- show how to use the advanced mode by editing [NetJSON](http://netjson.org) directly
+
+- Tags: video, community, tutorial, netjson
 - Categories: Outreach / Research
 
-## Articles for Web Marketing
-Many reviews and/or articles about OpenWISP could improve the community.
-The text will be in English with 400/500 words, it should describe features and functionality of OpenWISP.
-All the documentation, community links and videotutorial must be included inside the text.
+## Write a blog post about the history and main features of OpenWISP 2
 
-- Tags: blog, marketing, community
-- Categories: Outreach / Research
+Starting from the currently available online material on OpenWISP 2, write a blog post that introduces the history of OpenWISP 2, its purpose and its main features.
 
-## OpenWISP controller
-Fork the [openwisp-controller](https://github.com/openwisp/openwisp-controller#installing-for-development) repository and you can also star the repository
-- Setup the project on your local machine
-- Document the challenges faced during installation
-- Run the server and check the user interface
-- Suggest any changes that can be made to user interface
+The text has to be in English and at least 1000 words long
+Links to documentation, support channels and existing videos shall be included in the text.
 
-- Tags: project installation, blog, community
-- Categories: Outreach / Research
+- Tags: blogging, documentation, communication
+- Categories: Outreach / Research, Documentation
 
+## Install the openwisp-controller module and propose improvements to its README
+
+Star and fork the [openwisp-controller](https://github.com/openwisp/openwisp-controller#installing-for-development) repository, then proceed as follows:
+
+- setup the project on your local machine
+- document the challenges faced during installation
+- run the development server and check the user interface
+- suggest any changes that can be made to user interface in one or more github issues
+- send a pull request for each issue with your proposed fix
+
+Don't forget to ask questions via the gitter chat.
+
+- Tags: python, django, git, github
+- Categories: Outreach / Research, Documentation
