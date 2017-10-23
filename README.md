@@ -130,4 +130,21 @@ Star and fork the [openwisp-controller](https://github.com/openwisp/openwisp-con
 Don't forget to ask questions via the gitter chat.
 
 - Tags: python, django, git, github
-- Categories: Outreach / Research, Documentation
+- Categories: Outreach / Research, Documentation, Quality Assurance
+
+## Increase test coverage of django-x509 to at least 95%
+
+Follow the instruction to [install django-x509 and run tests](https://github.com/openwisp/django-x509#installing-for-development), star and fork the repo.
+
+Now run tests using this command: `coverage run --source=django_x509 runtests.py`.
+
+Note down the test coverage score. Find out what that is. You can ask your mentor for guidance!
+
+Now start working on the test suite to increase that score to at least 95% (it's 93% now).
+
+Don't cheat ;-)!
+
+When you are done, send a pull request.
+
+- Tags: python, django, git, testing
+- Categories: Quality Assurance, Coding
