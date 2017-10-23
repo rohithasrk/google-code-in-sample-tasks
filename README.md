@@ -175,3 +175,96 @@ Fix [django-netjsonconfig issue #62](https://github.com/openwisp/django-netjsonc
 
 - Tags: django, python, git
 - Categories: Coding
+
+## Create your first pull request
+
+This issue is more about getting familiar with Git and Github. You are required to try out this tutorial at https://try.github.io/levels/1/challenges/1. After doing this exercise locally, create a repository and push code to github. Fork this repo and add your Github link to `/gci/your_name/README.md`
+
+- Tags: easy, Git, Github
+- Categories: Coding, Documentation/ Training
+
+## Create your own GPG key, authenticate to GitHub and sign commits
+
+Read about GPG keys and the modern crypto authentication from links like [this](https://www.gnupg.org/)
+[Generate your GPG key](https://help.github.com/articles/generating-a-new-gpg-key/) and authenticate it with GitHub. [Tell GitHub](https://help.github.com/articles/telling-git-about-your-gpg-key/) about your key.
+Send a basic pull request to this repo at `/your_name/README.md` by signing the commit. Learn about signing [commits](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work)
+
+- Tags: Git, Modern Cryptography, Authentication
+- Categories: Coding, Documentation/ Training
+
+## PEP8 guidelines of Python
+
+Learn about [PEP8 guidelines]((https://www.python.org/dev/peps/pep-0008/)) of Python.
+Star and clone the repositories of [OpenWISP](https://github.com/openwisp).
+Open as many issues as possible and note the issue ids.
+
+- Tags: Python, Codestyle
+- Categories: Quality Assurance, Outreach/ Research
+
+## Propose new frontend for django-netjsongraph
+
+[django-netjsongraph](https://github.com/netjson/django-netjsongraph) is a Django package to collect and visualize network topology data. It is being used a lot in openwisp-network-topology.
+Star the repository and fork it.
+Install it locally by following the setup guide.
+Make some test nodes and links and view the network-topology.
+Propose one meaningful change in the frontend by opening issues.
+
+- Tags: HTML, CSS, Design, Frontend
+- Categories: Coding, Outreach/ Research, User interface
+
+## Make a video showing the features of openwisp-network-topology
+
+[openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology) is the network topology module of OpenWISP2.
+Star the repo and install it following the setup guidelines.
+You can install it using the [ansible role](https://github.com/openwisp/ansible-openwisp2).
+Now, make a video showing all the notable features of openwisp-network-topology.
+
+- Tags: Video, Network topology, Ansible
+- Categories: Research/ Outreach, Documentation
+
+## Use Vagrant for OpenWISP modules
+
+Vagrant is used for easing the development process. The documentation can be found from the [official website](https://www.vagrantup.com/)
+Read about it and setup vagrant in the following modules:
+  * openwisp-controller
+  * openwisp-network-topology
+  
+- Tags: Vagrant, virtual environments
+- Categories: Coding, Outreach/ Research
+
+## Screenshots of 2-3 important functionalities
+
+Take screenshots of any 2(preferrably more) functionalities of [django-netjsongraph](https://github.com/netjson/django-netjsongraph) or [openwisp-network-topology](https://github.com/openwisp/openwisp-network-topology) and research on the use cases of these packages.
+Add screenshots at relevant places in the README as suggested by your mentor and get them merged.
+
+- Tags: functionality, screenshots
+- Categories: Documentation/ Training, Outreach/ Research
+
+## Wireless network communities in your country
+
+Research about the various wireless communities of your country and list them up with their details. Write a small blog of around 700 words in English. Include at least one image of each community and write the story of their success/ failure.
+
+- Tags: Networking, study, communities, case study
+- Categories: Outreach/ Research
+
+## Blog about GCI with OpenWISP
+
+Write a blog on your experiences in GCI with OpenWISP, both technical and asthetic. Host it on your blogging platform.
+
+- Tags: marketing, blog
+- Categories: Documentation/ Training, Outreach/ Research
+
+## Open design flaws in the OpenWISP website
+
+Check out the OpenWISP [website](http://openwisp.org/). Point out the issues where the design could change or be improved. Open issues at the [issue tracker](https://github.com/openwisp/OpenWISP-Website) of the website.
+
+- Tags: design, analysis, debug
+- Categories: Quality Assurance, Documentation/ Training
+
+## Write a user guide to multitenancy in OpenWISP2
+
+Study about multi tenancy. Write a user guide(in English) to multitenancy in OpenWISP2 in about 400 words. Explore all the features and help people know more. You can add images and videos to improve understanding.
+
+- Tags: blog, research, features
+- Categories: Outreach/ Research, Documentation/ Training
+
