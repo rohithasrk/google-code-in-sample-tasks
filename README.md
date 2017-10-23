@@ -95,3 +95,14 @@ All the documentation, community links and videotutorial must be included inside
 
 - Tags: blog, marketing, community
 - Categories: Outreach / Research
+
+## OpenWISP controller
+Fork the [openwisp-controller](https://github.com/openwisp/openwisp-controller#installing-for-development) repository and you can also star the repository
+- Setup the project on your local machine
+- Document the challenges faced during installation
+- Run the server and check the user interface
+- Suggest any changes that can be made to user interface
+
+- Tags: project installation, blog, community
+- Categories: Outreach / Research
+
