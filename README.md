@@ -72,7 +72,12 @@ See also the [issue #25 in the ansible-openwisp2 repository](https://github.com/
 - Tags: python, ansible
 - Categories: Coding
 
-## Create a templates repository and documentation website using python-sphinx
+## Create an OpenWISP templates repository
+
+OpenWISP 2 has a cool concept called "Templates", you can understand everything about this feature at the following two links:
+
+- [Introduction to OpenWISP 2](https://www.youtube.com/watch?v=MY097Y2cPQ0)
+- [Basic Concepts: Templates (netjsonconfig documentation)](http://netjsonconfig.openwisp.org/en/stable/general/basics.html#template)
 
 A templates repository on github would be useful for common configurations like [Eduroam](https://en.wikipedia.org/wiki/Eduroam), Mesh, Roaming and other complex configurations.
 
