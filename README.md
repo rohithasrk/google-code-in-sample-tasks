@@ -111,8 +111,7 @@ Proceed as follows:
 
 Starting from the currently available online material on OpenWISP 2, write a blog post that introduces the history of OpenWISP 2, its purpose and its main features.
 
-The text has to be in English and at least 1000 words long
-Links to documentation, support channels and existing videos shall be included in the text.
+The text has to be in English and at least 1000 words long, and should include links to the documentation, support channels and may embed one existing OpenWISP 2 video from youtube.
 
 - Tags: blogging, documentation, communication
 - Categories: Outreach / Research, Documentation
