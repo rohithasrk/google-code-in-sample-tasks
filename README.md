@@ -36,7 +36,7 @@ We don't need a totally new logo, we would like a small variation from the actua
 - Tags: logo, design, graphic design, art
 - Categories: Outreach / Research
 
-## Design an OpenWISP t-shirt
+## Design an OpenWISP T-Shirt
 
 Design a T-shirt for OpenWISP users and developers.
 
