@@ -160,3 +160,18 @@ Ask your mentors for guidance on how to perform the install process.
 
 - Tags: documentation, ansible
 - Categories: Training/Documentation
+
+## Fix django-netjsonconfig issue #62
+
+Fix [django-netjsonconfig issue #62](https://github.com/openwisp/django-netjsonconfig/issues/62)
+
+**Add hostname validator to Device.name**:
+
+**How to reproduce the issue**: try to save a new device with name test device.
+
+**Result**: netjsonconfig validation complains test device is not a valid hostname and the validation error is shown in the configuration section.
+
+**Fix**: it would be better to show this validation error relating directly to the name field.
+
+- Tags: django, python, git
+- Categories: Coding
