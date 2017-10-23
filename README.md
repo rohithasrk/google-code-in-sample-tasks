@@ -87,3 +87,11 @@ The second part show the advanced mode and a detail of the precedent configurati
 
 - Tags: videomaker, community, tutorial
 - Categories: Outreach / Research
+
+## Articles for Web Marketing
+Many reviews and/or articles about OpenWISP could improve the community.
+The text will be in English with 400/500 words, it should describe features and functionality of OpenWISP.
+All the documentation, community links and videotutorial must be included inside the text.
+
+- Tags: blog, marketing, community
+- Categories: Outreach / Research
