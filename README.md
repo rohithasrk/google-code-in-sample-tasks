@@ -18,7 +18,8 @@ Do not hesitate to ask questions to mentors for guidance
 
 ## Create your first pull request
 
-This issue is more about getting familiar with Git and Github. You are required to try out this tutorial at https://try.github.io/levels/1/challenges/1. After doing this exercise locally, create a repository and push code to github. Fork this repo and add your Github link to `/gci/your_name/README.md`
+This issue is more about getting familiar with Git and Github. You are required to try out this tutorial at https://try.github.io/levels/1/challenges/1. After doing this exercise locally, create a repository and push code to github. Fork this repository and add your Github link to `/gci/your_name/README.md`.
+Send a [Pull request](https://help.github.com/articles/about-pull-requests/) and get it merged. 
 
 - Tags: easy, Git, Github
 - Categories: Coding, Documentation/Training
@@ -32,9 +33,9 @@ Research about the various wireless communities of your country and list them up
 
 ## Create your own GPG key, authenticate to GitHub and sign commits
 
-Read about GPG keys and the modern crypto authentication from links like [this](https://www.gnupg.org/)
+Read about GPG keys and the modern crypto authentication from links like [this](https://www.gnupg.org/).
 [Generate your GPG key](https://help.github.com/articles/generating-a-new-gpg-key/) and authenticate it with GitHub. [Tell GitHub](https://help.github.com/articles/telling-git-about-your-gpg-key/) about your key.
-Send a basic pull request to this repo at `/your_name/README.md` by signing the commit. Learn about signing [commits](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work)
+Send a basic pull request to this repo at `/your_name/README.md` by signing the commit. Learn about [signing commits](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work)
 
 - Tags: Git, Modern Cryptography, Authentication
 - Categories: Coding, Documentation/Training
@@ -148,7 +149,7 @@ Don't forget to join the [OpenWISP gitter](https://gitter.im/openwisp/general) c
 
 ## Create a new OpenWISP website theme
 
-Many years have passed since OpenWISP was introduced, it's time to refresh our brand identity and we need help.
+Many years have passed since OpenWISP was introduced, it's time to refresh our brand identity and we need help. The present [website](openwisp.org) has become quite old.
 
 We need a simple HTML5+CSS theme (lightweight javascript additions are fine)
 with the following features:
@@ -206,7 +207,7 @@ The ansible role for openwisp2 (the official way to install OpenWISP 2) should a
 
 See also the [issue #24 in the ansible-openwisp2 repository](https://github.com/openwisp/ansible-openwisp2/issues/24).
 
-- Tags: django, linux, ansible
+- Tags: django, linux, ansible, cron
 - Categories: Coding
 
 ## [ansible-openwisp2] Add a way to specify a different source for each openwisp2 module
@@ -334,7 +335,7 @@ Now, make a video showing all the notable features of openwisp-network-topology.
 
 ## Use Vagrant for OpenWISP modules
 
-Vagrant is used for easing the development process. The documentation can be found from the [official website](https://www.vagrantup.com/)
+Vagrant is used for easing the development process by automating the virtual environment setup process. The documentation can be found from the [official website](https://www.vagrantup.com/).
 Read about it and setup vagrant in the following modules:
   * openwisp-controller
   * openwisp-network-topology
@@ -354,7 +355,7 @@ Don't forget to star the repository!
 
 ## Blog about GCI with OpenWISP
 
-Write a blog post in english of minimum 700 words regarding your experiences in GCI with OpenWISP , describe 10 new things you learned, 3 challenges you faced and at least 1 aspect you didn't like. Include at least 3 images.
+Write a blog post in English of minimum 700 words regarding your experiences in GCI with OpenWISP , describe 10 new things you learned, 3 challenges you faced and at least 1 aspect you didn't like. Include at least 3 images.
 
 Host it on your preferred blogging platform.
 
