@@ -228,7 +228,7 @@ Vagrant is used for easing the development process. The documentation can be fou
 Read about it and setup vagrant in the following modules:
   * openwisp-controller
   * openwisp-network-topology
-  
+
 - Tags: Vagrant, virtual environments
 - Categories: Coding, Outreach/ Research
 
@@ -268,3 +268,42 @@ Study about multi tenancy. Write a user guide(in English) to multitenancy in Ope
 - Tags: blog, research, features
 - Categories: Outreach/ Research, Documentation/ Training
 
+## Add gitter badge to netjsonconfig documentation
+
+In this task you will learn how to add images to a **ReStructuredText** document.
+
+[ReStructuredText](https://en.wikipedia.org/wiki/ReStructuredText) is a structured documentation format very popular in the python community because its powerful semantic structure.
+
+[Gitter](https://gitter.im) is a popular chat platform used in the open source community, we use it in conjunction with IRC (a bridge is in place between our `#openwisp` freenode IRC chat room and gitter).
+
+Proceed as follows:
+
+- star and fork the [netjsonconfig](https://github.com/openwisp/netjsonconfig) repository
+- get the gitter badge image URL and target URL from the [ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2) repository
+- add the badge in the README of netjsonconfig using ReStructuredText syntax
+- perform the same operation in the documentation index page (`docs/source/index.rst`)
+- build the documentation locally with python-sphinx to ensure the result is good enough
+
+Don't forget to join the [OpenWISP gitter](https://gitter.im/openwisp/general) chat to ask questions to your mentors
+
+- Tags: ReStructuredText, git, sphinx
+- Categories: Documentation/Training
+
+## Add gitter badge to django-netjsongraph
+
+In this task you will learn how to add images to a **ReStructuredText** document.
+
+[ReStructuredText](https://en.wikipedia.org/wiki/ReStructuredText) is a structured documentation format very popular in the python community because its powerful semantic structure.
+
+[Gitter](https://gitter.im) is a popular chat platform used in the open source community, we use it in conjunction with IRC (a bridge is in place between our `#openwisp` freenode IRC chat room and gitter).
+
+Proceed as follows:
+
+- star and fork the [django-netjsongraph](https://github.com/netjson/django-netjsongraph) repository
+- get the gitter badge image URL and target URL from the [ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2) repository
+- add the badge in the README of django-netjsongraph using ReStructuredText syntax
+
+Don't forget to join the [OpenWISP gitter](https://gitter.im/openwisp/general) chat to ask questions to your mentors
+
+- Tags: ReStructuredText, git
+- Categories: Documentation/Training
