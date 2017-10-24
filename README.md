@@ -307,6 +307,17 @@ Ask your mentors for guidance on how to perform the install process.
 - Tags: documentation, ansible
 - Categories: Training/Documentation
 
+## Fix nodeshot Travis CI errors
+
+OpenWISP uses many tools of ninuxorg. nodeshot is one of them. The Travis build seems to fail and the goal is to fix it.
+Star the repository.
+Check out the [build fails](https://travis-ci.org/ninuxorg/nodeshot)
+Fork the repository and make a Pull request proposing the changes.
+
+- Tags: travis CI, testing, automation
+- Categories: Coding, Quality Assurance
+
+
 ## Fix django-netjsonconfig issue #62
 
 Fix [django-netjsonconfig issue #62](https://github.com/openwisp/django-netjsonconfig/issues/62)
